@@ -10,4 +10,5 @@ Node - 20.13
 
 # Telas
  ![Tela Desktop](telas/desktop.png)
+ ![Tela Desktop](telas/tela.gif)
  ![Tela Mobile](telas/mobile.png)
