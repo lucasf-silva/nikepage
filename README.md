@@ -7,3 +7,5 @@ Node - 20.13
  - npm i
 # Run
  - npm run dev
+
+ ![Tela Desktop](telas/desktop.png)
