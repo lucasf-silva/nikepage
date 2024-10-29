@@ -8,4 +8,6 @@ Node - 20.13
 # Run
  - npm run dev
 
+# Telas
  ![Tela Desktop](telas/desktop.png)
+ ![Tela Mobile](telas/mobile.png)
